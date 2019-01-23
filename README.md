@@ -1,4 +1,7 @@
 # README #
+This is a repo for writting notes. 
+Biglucky
+
 
 This README would normally document whatever steps are necessary to get your application up and running.
 
