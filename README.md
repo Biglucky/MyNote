@@ -1,5 +1,5 @@
 # README #
-This is a repo for writting notes. 
+This is a repo for writting notes.
 Biglucky
 
 
